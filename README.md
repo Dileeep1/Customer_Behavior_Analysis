@@ -77,28 +77,9 @@ File	Description
 Customer_behavior_analysis.ipynb	Python notebook for EDA & cleaning
 Customer_Behavior_Dashboard.pbix	Power BI dashboard
 customer_behavior_postgres.sql	SQL queries for metrics and segmentation
-📸 Dashboard Preview
-
-(Add screenshot or Power BI Public link here once published)
-Example:
-🔗 View Interactive Dashboard
-
-💡 Possible Improvements
-
-Add Cohort Retention Analysis and LTV prediction
-
-Schedule automatic ETL refreshes using Airflow/dbt
-
-Integrate Power BI Gateway refresh for live data
 
 👤 Author
-
-Dilip Goud
+ Dilip Goud
 📍 Data Analyst | Power BI | SQL | Python
-🔗 LinkedIn
-
-💻 GitHub
-
 📜 License
-
 This project is licensed under the MIT License — feel free to use and modify with credit.
